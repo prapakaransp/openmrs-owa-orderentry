@@ -1,0 +1,7 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "http://localhost:8080/",
+  "env": {
+    "location": "Achiv Santral"
+  }
+}
